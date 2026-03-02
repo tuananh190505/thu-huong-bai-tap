@@ -1,0 +1,27 @@
+{
+  "name": "lucky-draw-tet",
+  "version": "1.0.0",
+  "description": "Lucky Draw - Bốc thăm câu hỏi Lì Xì (Lunar New Year Edition)",
+  "main": "index.html",
+  "author": "FE Developer",
+  "license": "MIT",
+  "scripts": {
+    "start": "open index.html",
+    "dev": "npx http-server -p 8080 -c-1"
+  },
+  "keywords": [
+    "tet",
+    "lucky-draw",
+    "vietnamese",
+    "quiz",
+    "game",
+    "interactive"
+  ],
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/lucky-draw-tet"
+  }
+}
