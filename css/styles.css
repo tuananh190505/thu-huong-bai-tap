@@ -1054,7 +1054,7 @@ body {
 }
 
 .game-title::before {
-    content: '🧧';
+    content: '';
     position: absolute;
     left: 20px;
     top: 50%;
@@ -1064,7 +1064,7 @@ body {
 }
 
 .game-title::after {
-    content: '🧧';
+    content: '';
     position: absolute;
     right: 20px;
     top: 50%;
